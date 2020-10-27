@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Check out 🔴live at https://clone-38eef.web.app.
 
  ##Check out 🔴live at https://clone-38eef.web.app.
 
